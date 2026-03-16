@@ -1,3 +1,5 @@
+try the App NOW! ,and tell me ANY suggestions[APP RELEASE](https://github.com/Abderrahmen-Benmakhloufi/Quiz_App_flutter/releases/tag/v1.0.0)
+
 # 📱 Flutter Mastery Quiz
 A clean and responsive mobile application built with Flutter to help developers practice and master core Flutter concepts.
 
